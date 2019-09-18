@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E129970B-4BB1-723C-E2D6-CD577A6828E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GettingCurr.cs">
+    <Files>
+      <File FileName="Assets/stringsdata.cs" Line="30" Column="9" />
+      <File FileName="Assets/GettingCurr.cs" Line="3" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
