@@ -62,8 +62,13 @@
   <ItemGroup>
     <Compile Include="Assets\Boomlagoon\JSON\JSONObject.cs" />
     <Compile Include="Assets\Boomlagoon\JSON\TestScene\JSONObjectTester.cs" />
-    <Compile Include="Assets\GettingCurr.cs" />
-    <Compile Include="Assets\stringsdata.cs" />
+    <Compile Include="Assets\Scripts\buttonClick.cs" />
+    <Compile Include="Assets\Scripts\CreatingCurrencies.cs" />
+    <Compile Include="Assets\Scripts\DataSaver.cs" />
+    <Compile Include="Assets\Scripts\GettingCurr.cs" />
+    <Compile Include="Assets\Scripts\HandleUI.cs" />
+    <Compile Include="Assets\Scripts\starter.cs" />
+    <Compile Include="Assets\Scripts\stringsdata.cs" />
     <None Include="Assets\Boomlagoon\JSON\Readme.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/adamnaceri/Desktop/CProgramming/Currency-Converter/Currency Converter/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

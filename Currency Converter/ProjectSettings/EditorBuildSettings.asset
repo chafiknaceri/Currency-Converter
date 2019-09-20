@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/GameScene2.unity
-    guid: e146b855f07c844f693f967eff00125b
+    path: Assets/Scenes/dataSaver.unity
+    guid: ca0963f2a441e477f989828ed26a3a3b
+  - enabled: 1
+    path: Assets/Scenes/CurrencyConv.unity
+    guid: 5aeea484b0aa348d0924fff31527fee5
   m_configObjects: {}

@@ -65,8 +65,9 @@ namespace Boomlagoon.JSON {
 	}
 
 	public class JSONValue {
+        internal object id;
 
-		public JSONValue(JSONValueType type) {
+        public JSONValue(JSONValueType type) {
 			Type = type;
 		}
 

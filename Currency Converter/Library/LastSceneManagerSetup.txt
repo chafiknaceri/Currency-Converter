@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/GameScene2.unity
+- path: Assets/Scenes/dataSaver.unity
   isLoaded: 1
   isActive: 1
