@@ -13,3 +13,5 @@ The app Functionalty :<br />
 <li> One Click Button to Switch the Starting currency with the ending Currency</li>
 </ol>
 
+Key Improvements : 
+Mainly to look perfect on all device sizes is something i could make better.
