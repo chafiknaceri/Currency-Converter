@@ -22,3 +22,11 @@ Mainly to look perfect on all device sizes is something i could make better.
 <img width="314" alt="Screen Shot 2019-09-20 at 5 28 40 PM" src="https://user-images.githubusercontent.com/54916940/65343622-51e12900-dbcd-11e9-8f79-743a58754dc1.png">
 
   </div>
+  
+ <h3> Technologies Used </h3>
+ <ul>
+  <li> C# Programming Language </li>
+  <li> Unity </li>
+  <li> APIS </li>
+</ul>  
+
