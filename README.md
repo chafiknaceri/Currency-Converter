@@ -15,3 +15,8 @@ The app Functionalty :<br />
 
 Key Improvements : 
 Mainly to look perfect on all device sizes is something i could make better.
+
+<div style="display:inline">
+<img width="318" style="padding:100px" alt="Screen Shot 2019-09-20 at 5 28 26 PM" src="https://user-images.githubusercontent.com/54916940/65343410-d2ebf080-dbcc-11e9-9993-d58eaa5616be.png">
+<img width="318" alt="Screen Shot 2019-09-20 at 5 28 26 PM" src="https://user-images.githubusercontent.com/54916940/65343410-d2ebf080-dbcc-11e9-9993-d58eaa5616be.png">
+  </div>
